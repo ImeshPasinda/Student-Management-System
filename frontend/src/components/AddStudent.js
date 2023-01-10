@@ -24,7 +24,7 @@ function sendData(e){
   }).catch((err)=>{
     alert(err)
   })
-  //(backendURL,objectname)
+  
 }
 		
 
