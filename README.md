@@ -1,2 +1,2 @@
-# Student-Management-System--MernStack
+# Student Management System
  Online Student Management System
